@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-google-genai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
